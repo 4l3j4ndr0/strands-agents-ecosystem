@@ -365,12 +365,6 @@ We welcome contributions! Here's how you can help:
 
 ## 📚 **Learning Resources**
 
-### **Strands Framework:**
-
-- [Official Documentation](https://docs.strands.ai)
-- [GitHub Repository](https://github.com/strands-ai/strands)
-- [Examples and Tutorials](https://github.com/strands-ai/examples)
-
 ### **Multi-Agent Systems:**
 
 - [Multi-Agent Systems: An Introduction](https://www.amazon.com/Multi-Agent-Systems-Introduction-Distributed-Intelligence/dp/0262731312)
