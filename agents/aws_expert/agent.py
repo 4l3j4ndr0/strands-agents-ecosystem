@@ -25,9 +25,7 @@ aws_expert_agent = Agent(
         shell, 
         python_repl, 
         file_read,
-        file_write,
-        list_aws_resources,
-        analyze_aws_costs
+        file_write
     ],
     system_prompt=AWS_EXPERT_SYSTEM_PROMPT
 )
