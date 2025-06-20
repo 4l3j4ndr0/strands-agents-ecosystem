@@ -100,7 +100,7 @@ graph TD
 
 ### **Model Providers**
 
-The system uses AWS Bedrock by default with Claude 3.5 Sonnet. You can customize the model by setting the `MODEL_ID` environment variable to any supported Bedrock model ID.
+The system uses AWS Bedrock by default with Claude 4 Sonnet. You can customize the model by setting the `MODEL_ID` environment variable to any supported Bedrock model ID.
 
 ## 🎮 **Usage Examples**
 
@@ -207,7 +207,7 @@ Query: I need a complete DevOps pipeline for a React app deployed to EKS
 - AWS Expert: Recommends best practices and services
 - Coordinator: Synthesizes everything into a complete solution
 
-```
+````
 
 ## 🔧 **Tool Interception System**
 
@@ -269,7 +269,6 @@ One of the unique features of this system is **tool interception** - you can see
 ## 🛠️ **Development**
 
 ### **Project Structure**
-```
 
 strands-agents-ecosystem/
 ├── agents/ # Individual agent implementations
@@ -288,7 +287,6 @@ strands-agents-ecosystem/
 ├── requirements.txt # Python dependencies
 └── .env.example # Environment configuration template
 
-````
 
 ### **Adding New Agents**
 
