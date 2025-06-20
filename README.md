@@ -363,19 +363,6 @@ We welcome contributions! Here's how you can help:
 - Include type hints where appropriate
 - Write clear, descriptive commit messages
 
-## 📚 **Learning Resources**
-
-### **Multi-Agent Systems:**
-
-- [Multi-Agent Systems: An Introduction](https://www.amazon.com/Multi-Agent-Systems-Introduction-Distributed-Intelligence/dp/0262731312)
-- [Cooperative AI Research](https://www.cooperativeai.com/)
-
-### **Cloud Engineering:**
-
-- [AWS Well-Architected Framework](https://aws.amazon.com/architecture/well-architected/)
-- [Terraform Documentation](https://www.terraform.io/docs)
-- [Kubernetes Documentation](https://kubernetes.io/docs/)
-
 ## 🔍 **Troubleshooting**
 
 ### **Common Issues:**
@@ -412,8 +399,7 @@ export ENABLE_TOOL_INTERCEPTION=true
 ### **Getting Help:**
 
 1. Check the [Issues](https://github.com/4l3j4ndr0/strands-agents-ecosystem/issues) page
-2. Join our [Discord Community](https://discord.gg/strands-ai)
-3. Read the [Strands Documentation](https://docs.strands.ai)
+2. Read the [Strands Documentation](https://strandsagents.com/latest/)
 
 ## 📄 **License**
 
