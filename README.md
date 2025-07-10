@@ -192,8 +192,6 @@ resource "aws_lambda_function" "api" {
 }
 ````
 
-```
-
 ### **Example 3: Multi-Agent Coordination**
 ```
 
@@ -270,6 +268,7 @@ One of the unique features of this system is **tool interception** - you can see
 
 ### **Project Structure**
 
+```bash
 strands-agents-ecosystem/
 ├── agents/ # Individual agent implementations
 │ ├── coordinator/ # Main orchestrator agent
@@ -286,14 +285,15 @@ strands-agents-ecosystem/
 ├── main.py # Application entry point
 ├── requirements.txt # Python dependencies
 └── .env.example # Environment configuration template
-
+  ```
 
 ### **Adding New Agents**
 
 1. **Create agent directory:**
+
    ```bash
    mkdir agents/new_agent
-````
+   ```
 
 2. **Implement agent files:**
 
