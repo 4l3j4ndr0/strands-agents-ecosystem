@@ -192,8 +192,6 @@ resource "aws_lambda_function" "api" {
 }
 ````
 
-```
-
 ### **Example 3: Multi-Agent Coordination**
 ```
 
@@ -291,9 +289,10 @@ strands-agents-ecosystem/
 ### **Adding New Agents**
 
 1. **Create agent directory:**
+
    ```bash
    mkdir agents/new_agent
-````
+   ```
 
 2. **Implement agent files:**
 
